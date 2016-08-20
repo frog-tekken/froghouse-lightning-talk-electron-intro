@@ -1,0 +1,16 @@
+body {
+    color: #f8f7f2;
+    background-color: #449f49;
+}
+
+.container {
+    width: 800px;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.item {
+    font-size: 20px;
+}
