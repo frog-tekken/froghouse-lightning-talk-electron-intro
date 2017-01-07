@@ -5,7 +5,7 @@
 Run this application:
 
 ```shell
-git clone https://github.com/changami/froghouse-lightning-talk-electron
-cd froghouse-lightning-talk-electron
+git clone https://github.com/frog-tekken/froghouse-lightning-talk-electron-intro
+cd froghouse-lightning-talk-electron-intro
 npm install && npm start
 ```

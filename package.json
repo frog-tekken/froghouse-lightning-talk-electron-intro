@@ -1,16 +1,16 @@
 {
-  "name": "froghouse-lightning-talk-electron",
-  "version": "0.1.0",
+  "name": "froghouse-lightning-talk-electron-intro",
+  "version": "0.1.1",
   "description": "Electron Demo Application for Lightning Talk at Frog House 1",
   "main": "main.js",
   "scripts": {
-    "archive": "asar pack . ./froghouse-lightning-talk-electron.asar",
+    "archive": "asar pack . ./froghouse-lightning-talk-electron-intro.asar",
     "build": "node packager.config.js",
     "start": "electron ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/changami/froghouse-lightning-talk-electron.git"
+    "url": "git+https://github.com/frog-tekken/froghouse-lightning-talk-electron-intro.git"
   },
   "keywords": [
     "Electron"
@@ -18,9 +18,9 @@
   "author": "chan_gami",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/changami/froghouse-lightning-talk-electron/issues"
+    "url": "https://github.com/frog-tekken/froghouse-lightning-talk-electron-intro/issues"
   },
-  "homepage": "https://github.com/changami/froghouse-lightning-talk-electron#readme",
+  "homepage": "https://github.com/frog-tekken/froghouse-lightning-talk-electron-intro#readme",
   "devDependencies": {
     "electron-packager": "^7.6.0",
     "electron-prebuilt": "^1.3.3"
